@@ -1,0 +1,2 @@
+(this["webpackJsonpgithub-finder"]=this["webpackJsonpgithub-finder"]||[]).push([[0],{3:function(e,n,t){e.exports=t(8)},8:function(e,n,t){"use strict";t.r(n);var r=t(0),a=t.n(r),i=t(2);var u=function(){return a.a.createElement("div",{className:"App"},a.a.createElement("h1",null,"githubfinder"))};t.n(i).a.render(a.a.createElement(u,null),document.getElementById("root"))}},[[3,1,2]]]);
+//# sourceMappingURL=main.d1432237.chunk.js.map
