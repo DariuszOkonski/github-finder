@@ -1,4 +1,4 @@
-![FavNote](src/img/github-main.png)
+![FavNote](src/github-main.png)
 # Github-Finder in React
 
 Github-Finder is a create react app. It was created for desktop views only. App is using react-router-dom
